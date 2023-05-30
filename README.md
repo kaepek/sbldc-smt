@@ -1,3 +1,5 @@
+# KAEPEK-SBLDC-SMT V2.4.0
+
 # Electrical Design
 
 Triple Half-H-Bridge bldc driver with BEMF potential dividers (3 phases and a common virtual neutral).
