@@ -31,5 +31,8 @@ The circuit has a male 13 pin header. Here is the configuration P1-x of the powe
 	- P1-02 (Virtual neutral voltage divider signal)
 	- P1-01 (Virtual neutral voltage divider signal)
 
+# Disclaimer
 
+This is an experimental project. I have destroyed a great deal of hardware (motors, transistors, ICs) and almost caused a fire once. Please be careful when using this code. ABSOLUTELY NO WARRANTY. If you do not agree to this then please do not download this software as this would violate the license which this code was distributed with, see [./LICENSE](./LICENSE) for details.
 
+Moreover this project lacks sensible precautions with the ESC to halt the motor when its in a faulty state (aka something is in the way of the motor spinning). Due to its prototype nature represents a threat to you, if suitable personal protective gear and precautions are not made. I recommend building some sort of protective enclosure before one could safely experiment with the setup.
